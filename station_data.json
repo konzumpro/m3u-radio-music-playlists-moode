@@ -135,6 +135,23 @@
             "geo_fenced": "No",
             "home_page": "",
             "reserved2": ""
+        },
+        {
+            "id": 507,
+            "station": "http://s02.diazol.hu:10170/stream",
+            "name": "Radio N Caffe",
+            "type": "r",
+            "logo": "local",
+            "genre": "pop",
+            "broadcaster": "",
+            "language": "Hungarian",
+            "country": "Hungary",
+            "region": "Europe",
+            "bitrate": "192",
+            "format": "mp3",
+            "geo_fenced": "No",
+            "home_page": "https://radio-n-caffe.webnode.hu/",
+            "reserved2": ""
         }
     ]
 }
